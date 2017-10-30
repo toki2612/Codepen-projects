@@ -1,0 +1,45 @@
+body {
+  margin-top: 65px;
+  background-color: #93d2d8;
+  background-position: center;
+}
+
+.input-group {
+  margin: auto;
+  margin-top: 25px;
+  width: 90%;
+}
+
+ul {
+  width: 80%;
+  margin: auto;
+  margin-top: 35px;
+  padding: 10px 10px;
+  visibility: hidden;
+}
+
+li {
+  background-color: #f1f1f1;
+  list-style-type: none;
+  padding: 30px 30px;
+  text-align: left;
+  margin-bottom: 20px;
+  
+}
+
+li:hover {
+  background-color: #cce2e8;
+  cursor: pointer;
+}
+
+input[type=search]::-webkit-search-cancel-button {
+    -webkit-appearance: searchfield-cancel-button;
+}
+
+.btn {
+  background-color: gray;
+}
+
+.btn:hover {
+  background-color: #b0b2b7;
+}
