@@ -1,0 +1,48 @@
+body {
+  margin-top: 50px;
+  background-color: #436877;
+}
+
+#mainBox {
+  border-radius: 5px;
+  background-color: #eff5f7;
+  margin: auto;
+  width: 50%;
+  
+}
+
+#qA {
+  margin: 30px;
+}
+
+#quote {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 24px;
+}
+
+#quoteAutor {
+  margin-right: 20px;
+}
+ 
+ #newQuote {
+  height: 42 px;
+   margin-right: 50px;
+   margin-top: 50px;
+}
+
+#twitter {
+  margin: 50px; 
+  background-color: #9ed0e5;
+}
+
+.clicked {
+  background-color: yellow;
+}
+
+@media (max-width: 600px) {
+  #mainBox {
+  width: 90%;
+  
+}
+}
