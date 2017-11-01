@@ -1,1 +1,1 @@
-# Pomodoro-clock
+# Tick Tack Toe game
